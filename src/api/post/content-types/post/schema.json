@@ -33,14 +33,11 @@
     "category": {
       "type": "enumeration",
       "enum": [
-        "blockchain",
         "web3",
-        "defi",
-        "ai",
+        "blockchain",
         "engineering",
         "security",
-        "guides",
-        "tech"
+        "ai",
       ]
     },
     "featuredImage": {
