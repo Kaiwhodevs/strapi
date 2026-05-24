@@ -1,3 +1,2 @@
 import { factories } from '@strapi/strapi';
-
-export default factories.createCoreController('api::post.post');
+export default factories.createCoreService('api::post.post');
